@@ -71,12 +71,3 @@ void animation::updateBreaker(sf::RenderWindow* window)
 	}
 }
 
-//animation::animation()
-//{
-	//shape1.setFillColor(sf::Color(40, 32, 54));
-	//shape1.setSize(sf::Vector2f(20.5f, 20.5f));
-	//shape1.setOutlineThickness(1.f);
-	//shape2.setFillColor(sf::Color(40, 32, 54));
-	//shape2.setSize(sf::Vector2f(20.5f, 20.5f));
-	//shape2.setOutlineThickness(1.f);
-//}
