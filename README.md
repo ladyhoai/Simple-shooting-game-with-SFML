@@ -2,6 +2,8 @@
 
 This is a shooting game inspired by Space Shooter, which was made for the purpose of personal practicing. Hope this helps somebody, somehow :)
 
+I'm using visual studio 2019 for this game. To build, copy the code to vs and link the sfml library (New to github so I'm not sure if this works) 
+
 Control : UpArrow, DownArrow, LeftArrow, RightArrow to move the ship.
 To restart game, press SpaceBar.
 Pick up the condom to gain a shield
